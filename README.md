@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m tchweya,
 
 I’m a data analyst and machine learning ethusiast with over 5 years of experience in data analysis, interpretation, and development of machine learning algorithms. 
-I’m passionate about collaborating on data-driven projects to increase efficiency and deliver actionable recommendations. 
+I am committed to continuous learning and staying at the forefront of the ever-evolving field of data analytics. I’m passionate about collaborating on data-driven projects to increase efficiency and deliver actionable recommendations. 
+
+Let’s connect and explore how we can turn data into powerful stories and actionable strategies!
 
 ## My Passion:
 **Data-Driven Insights:** I believe in the potential of data to unlock new opportunities and solve real-world problems. My journey in data analytics is driven by a desire to uncover patterns, trends, and actionable insights that can make a significant impact.
@@ -23,5 +25,5 @@ I’m passionate about collaborating on data-driven projects to increase efficie
 ## 🎓 Recent Achievement:
  🎓 Completed a rigorous, hands-on Data Analytics Certificate program, covering the full data analysis process from data collection to insightful visualization.
 
-I am committed to continuous learning and staying at the forefront of the ever-evolving field of data analytics. Let’s connect and explore how we can turn data into powerful stories and actionable strategies!
+
 
