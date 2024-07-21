@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m tchweya,
 
-I’m a data analyst and machine learning ethusiast with over 5 years of experience in data analysis, interpretation, and development of machine learning algorithms. 
-I am committed to continuous learning and staying at the forefront of the ever-evolving field of data analytics. I’m passionate about collaborating on data-driven projects to increase efficiency and deliver actionable recommendations. 
+I am a data ethusiast committed to continuous learning and staying at the forefront of the ever-evolving field of AI, data analytics and machine learning. I’m passionate about collaborating on data-driven projects to increase efficiency and deliver actionable recommendations. 
 
 Let’s connect and explore how we can turn data into powerful stories and actionable strategies!
 
